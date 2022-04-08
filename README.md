@@ -1,2 +1,2 @@
-# BarbeatiaAlura
+# BarbeariaAlura
 Projeto Barbearia Alura
